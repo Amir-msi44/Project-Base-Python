@@ -1,4 +1,2 @@
-hello
+# Wordle Game
 
-hello wordle
-welcom to Wordle
