@@ -8,7 +8,7 @@ from main import simulate_game
 st.set_page_config(page_title="Monty Hall Simulation", layout="wide")
 
 # Add a header image (Replace with a suitable URL or local image)
-st.image('images/1.jpg', width=300)
+st.image('1.jpg', width=300)
 
 # Title and description with improved fonts and colors
 st.title("Monty Hall Problem Simulation 🏆🚪")
