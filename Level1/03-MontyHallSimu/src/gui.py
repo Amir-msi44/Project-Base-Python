@@ -2,7 +2,7 @@ import time
 
 import streamlit as st
 
-from src.main import simulate_game
+from main import simulate_game
 
 st.image('images/download.jpeg', width=400)
 st.title("Monty Hall Simulation")
