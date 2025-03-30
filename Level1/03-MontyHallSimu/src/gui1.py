@@ -32,7 +32,7 @@ st.markdown(
 )
 
 # User input with styled text
-num_games = st.number_input("Enter the number of simulations to run:", min_value=1, max_value=100000, value=1000, step=500)
+num_games = st.number_input("Enter the number of simulations to run:", min_value=1, max_value=100000, value=100, step=50)
 
 # Layout setup
 col1, col2 = st.columns(2)
